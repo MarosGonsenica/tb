@@ -1,0 +1,23 @@
+[
+     {"currencyCode": "USD", "exchangeRate": 1.0},
+     {"currencyCode": "EUR", "exchangeRate": 0.91},
+     {"currencyCode": "JPY", "exchangeRate": 118.47},
+     {"currencyCode": "GBP", "exchangeRate": 0.76},
+     {"currencyCode": "AUD", "exchangeRate": 1.48},
+     {"currencyCode": "CAD", "exchangeRate": 1.27},
+     {"currencyCode": "CHF", "exchangeRate": 0.92},
+     {"currencyCode": "CNY", "exchangeRate": 6.36},
+     {"currencyCode": "SEK", "exchangeRate": 9.58},
+     {"currencyCode": "NZD", "exchangeRate": 1.49},
+     {"currencyCode": "MXN", "exchangeRate": 20.16},
+     {"currencyCode": "INR", "exchangeRate": 75.62},
+     {"currencyCode": "BRL", "exchangeRate": 5.25},
+     {"currencyCode": "ZAR", "exchangeRate": 14.87},
+     {"currencyCode": "SGD", "exchangeRate": 1.35},
+     {"currencyCode": "RUB", "exchangeRate": 76.50},
+     {"currencyCode": "MYR", "exchangeRate": 4.19},
+     {"currencyCode": "HKD", "exchangeRate": 7.84},
+     {"currencyCode": "THB", "exchangeRate": 33.47},
+     {"currencyCode": "IDR", "exchangeRate": 14385.0}
+
+]
